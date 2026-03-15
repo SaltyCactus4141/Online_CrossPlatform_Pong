@@ -1,0 +1,14 @@
+/* Todo */
+
+/* Architecture */
+    - Current Stage: building world objects
+    - Next Stage: build GameState and Game
+
+/* World objects */: COMPLETED
+
+/* Rendering */
+    - Decide between SDL2, SFML, OpenGL
+    - Verify the coordinates of the screen, and the pixel sizes
+
+/* Networking */
+    - Watch the Cherno's video "Networking in C++"
